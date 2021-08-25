@@ -1,4 +1,4 @@
-# Docker container for QTLtools (v1.3.1)
+# Docker container for QTLtools
 
 Dockerfile for [QTLtools](https://qtltools.github.io/qtltools/): a tool set for molecular QTL discovery and analysis.
 
