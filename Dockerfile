@@ -6,7 +6,7 @@
 FROM ubuntu:latest
 
 # File Author / Maintainer
-LABEL maintainer="Naoto Kubota <n.kubota@bioreg.kyushu-u.ac.jp>"
+LABEL maintainer="Naoto Kubota <naotok@ucr.edu>"
 
 ENV DEBIAN_FRONTEND=noninteractive
 
