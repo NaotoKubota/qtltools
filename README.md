@@ -4,7 +4,10 @@ Dockerfile for [QTLtools](https://qtltools.github.io/qtltools/): a tool set for 
 
 It's on [dockerhub](https://hub.docker.com/r/naotokubota/qtltools) and [github](https://github.com/NaotoKubota/qtltools).
 
+[![dockeri.co](https://dockerico.blankenship.io/image/naotokubota/qtltools)](https://hub.docker.com/r/naotokubota/qtltools)
+
 ## tags and links
+
 - `1.3.1` [(master/Dockerfile)](https://github.com/NaotoKubota/qtltools/blob/master/Dockerfile)
 
 ## how to build
